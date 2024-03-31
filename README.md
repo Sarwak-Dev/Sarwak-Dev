@@ -6,6 +6,10 @@
 </h1>
 
 <h3 align="center">A Data Science student from Chile 🇨🇱🎓</h3>
+<br/>
+<p align="center">
+  <img src="https://i.imgur.com/290GvPi.gif"30" height="30">
+</p>
 <!--
 <br/>
 <div align="center">
