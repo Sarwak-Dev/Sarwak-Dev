@@ -1,4 +1,4 @@
-<img src="https://profile-counter.glitch.me/Sarwak-Dev/count.svg" alt="hit counter" align="center">
+![](https://komarev.com/ghpvc/?username=Sarwak-Dev)
 
 <!--<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sarwak-dev.sarwak-dev" />-->
 <h1 align="center">
