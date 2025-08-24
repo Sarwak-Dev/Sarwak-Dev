@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Sarwak-Dev)
+![](https://komarev.com/ghpvc/?username=Sarwak-Dev&color=red)
 
 <!--<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sarwak-dev.sarwak-dev" />-->
 <h1 align="center">
